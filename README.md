@@ -1,30 +1,26 @@
-## Ola! Eu sou Mateus Cesar de Araujo
-### Bem vindo ao meu Repositorio!
+# Olá, eu sou Mateus Cesar 👋
 
-<div align="center">
-  <a href="https://github.com/MateusCDev"> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MateusCDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusCDev&layout=compact&langs_count=7&theme=radical"/>
+### Dados • Business Intelligence • Telecomunicações
 
-</div>
+Trabalho com coleta, tratamento e análise de dados para apoiar decisões e melhorar processos. Neste espaço reúno projetos de visualização, integração de dados, bancos de dados e infraestrutura de telecomunicações.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mateus-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Mateus-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /> 
-  <img align="center" alt="Mateus-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
-  <img align="center" alt="Mateus-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-  <img align="center" alt="Ubiratan-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Ubiratan-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Mateus-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />         
-</div>
+## Projetos em destaque
 
-##
+| Projeto | O que você vai encontrar | Ferramentas |
+| --- | --- | --- |
+| [Dashboard de infraestrutura de telecomunicações](https://github.com/MateusCDev/telecom-infrastructure-dashboard) | Indicadores de reparos, atividades, pendências e ampliações. | Looker Studio, SQL |
+| [ETL NetBox](https://github.com/MateusCDev/ETL_NETBOX) | Processamento de dados de infraestrutura e apoio à migração de POPs no NetBox. | Python, Google Colab, NetBox |
+| [Projetos Power BI](https://github.com/MateusCDev/PowerBi_Projects) | Estudos e projetos de visualização de dados. | Power BI |
+| [Análise com AWS Athena](https://github.com/MateusCDev/Projeto_AWS_Athena) | Experimento didático de consulta e visualização de dados na AWS. | S3, Glue, Athena, QuickSight |
+| [Integração de bancos com Python](https://github.com/MateusCDev/Projeto_Integrando_BDs_Python) | Estudos de integração com bancos relacionais e MongoDB. | Python, SQLAlchemy, PyMongo |
+| [Modelagem de dados](https://github.com/MateusCDev/Projeto_ModelagemDados) | Modelos conceituais para cenários de e-commerce e oficina. | Modelagem ER, draw.io |
 
-<div> 
- <a href = "mailto:mateus.cesararaujo@hotmail.com"><img src=https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mateusca/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-   ![Snake animation](https://github.com/MateusCDev/MateusCDev/blob/output/github-contribution-grid-snake.svg)
-  
-</div>  
- 
+## Ferramentas
+
+**Dados e programação:** Python · SQL · Pandas · Excel  
+**Visualização:** Power BI · Looker Studio  
+**Infraestrutura e projetos:** NetBox · Google Earth · Ozmap
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/mateusca/) · [E-mail](mailto:mateus.cesararaujo@hotmail.com)
